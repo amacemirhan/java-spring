@@ -10,8 +10,8 @@
 
 ## Methods
 
-GET localhost:8080/api/cities
-GET localhost:8080/api/cities/{id}
-POST localhost:8080/api/add
-POST localhost:8080/api/update
-POST localhost:8080/api/delete
+GET localhost:8080/api/cities<br />
+GET localhost:8080/api/cities/{id}<br />
+POST localhost:8080/api/add<br />
+POST localhost:8080/api/update<br />
+POST localhost:8080/api/delete<br />
