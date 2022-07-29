@@ -2,11 +2,11 @@
 
 
 ## Technologies
--MySql (World database)\n
--Hibernate\n
--Spring\n
--Spring Boot\n
--Maven\n
+-MySql (World database)<br />
+-Hibernate<br />
+-Spring<br />
+-Spring Boot<br />
+-Maven<br />
 
 ## Methods
 
